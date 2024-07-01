@@ -24,6 +24,18 @@ player2.sayHello(); // logs "Hello, I'm a player!"
 
 
 // Don't do this!
-player1.__proto__ === Player.prototype; // returns true
-player2.__proto__ === Player.prototype; // returns true
+console.log(player1.__proto__ === Player.prototype); // returns true
+console.log(player2.__proto__ === Player.prototype); // returns true
 
+
+// Player.prototype.__proto__
+console.log(Object.getPrototypeOf(Player.prototype) === Object.prototype); // true
+
+// Output may slightly differ based on the browser
+console.log(player1.valueOf()); // Output: Object { name: "steve", marker: "X", sayName: sayName() }
+
+console.info("hasOwnProperty");
+console.log(player1.hasOwnProperty('valueOf')); // false
+console.log(Object.prototype.hasOwnProperty('valueOf')); // true
+
+console.log(Object.prototype.hasOwnProperty('hasOwnProperty')); // true);
