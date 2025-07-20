@@ -37,7 +37,7 @@ Pressing `Enter` should generate the following text:
 ```
 We have just used one of many Emmet abbreviations. There are lots of useful Emmet abbreviations that you should check out, like [Wrap with Abbreviation](https://docs.emmet.io/actions/wrap-with-abbreviation/) and Remove Tag. Definitely go through those before moving forward.
 
-Considering how useful these two are, we will be setting up VS Code shortcuts for them. Start off by opening the keyboard shortcuts window. You can do so by clicking the cog icon on the bottom left and selecting keyboard shortcuts, or by pressing `Cmd` + `K` followed by `Cmd` + `S` on Mac, or `Ctrl` + `K` followed by `Ctrl` + `S` on Windows/Linux.
+Considering how useful these two are, we will be setting up VS Code shortcuts for them. Start off by opening the keyboard shortcuts window. You can do so by clicking the cog icon on the bottom left and selecting keyboard shortcuts, or by pressing `Cmd + K` followed by `Cmd` + `S` on Mac, or `Ctrl` + `K` followed by `Ctrl` + `S` on Windows/Linux.
 
 ![](./../assets/img/emmet-2.png)
 
@@ -45,4 +45,25 @@ After entering the keyboard shortcuts window, you should be able to access all o
 
 ![](./../assets/img/emmet-3.png)
 
-You can now add a shortcut to it by clicking the plus sign and entering whichever key combination you would like for that specific action. You can do the same for Remove Tag by searching for Emmet:Remove tag.
+You can now add a shortcut to it by clicking the plus sign and entering whichever key combination you would like for that specific action. You can do the same for Remove Tag by searching for `Emmet:Remove tag`.
+
+### Assignment
+1. This [video about Emmet](https://www.youtube.com/watch?v=V8vizNQKtx0) showcases some of the ways we can use Emmet to enhance productivity. Go ahead and watch it up to 11:37 as it demonstrates some content we haven’t covered yet. We’ll get there eventually.
+
+2. Take a look at the [Emmet cheat sheet](https://docs.emmet.io/cheat-sheet/). You don’t have to memorize it, but it’s good that you get familiar with the different ways it can be used.
+
+### Knowledge check
+The following questions are an opportunity to reflect on key topics in this lesson. If you can’t answer a question, click on it to review the material, but keep in mind you are not expected to memorize or master this knowledge.
+
+* Why should you use Emmet?
+* What are some useful Emmet abbreviations?
+* What syntax would you use to create the element `<p class="text"></p>`?
+* What syntax expands to an element with a child element inside of it? For example: `<div><p></p></div>`
+* What syntax would you use to create three elements that have the same class name?
+
+### Additional resources
+This section contains helpful links to related content. It isn’t required, so consider it supplemental.
+
+- [Emmet Keybindings](https://marketplace.visualstudio.com/items?itemName=agutierrezr.emmet-keybindings) by [Andrés Gutiérrez](https://agutierrezr.github.io/), is a set of Emmet keybinds for Visual Studio Code. It can be used as a pre-defined group of keybinds, in case you don’t know what to map to which keys.
+
+- [Emmet Live](https://marketplace.visualstudio.com/items?itemName=ysemeniuk.emmet-live) by [Yurii Semeniuk](https://github.com/semeniuk), is another extension in Visual Studio Code. It can continually generate the corresponding HTML structure while you’re editing Emmet abbreviations. For the desired outcome, try selecting a random piece of text before calling out this extension.
