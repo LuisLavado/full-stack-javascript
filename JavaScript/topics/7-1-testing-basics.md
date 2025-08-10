@@ -1,6 +1,6 @@
 **[JavaScript Course](./../README.md)** - [[Switch to Spanish](./es/7-1-testing-basics-es.md)]
 
-## Testing Basics
+# Testing Basics
 
 ### Introduction
 Test Driven Development, or TDD for short, is a big deal in the modern development landscape. This is a concept that we introduced way back in our Fundamentals section with our JavaScript Exercises. The main idea is that you start working on your code by writing automated tests before writing the code that is being tested. There are tons of benefits to working like this, all of which will be discussed in the resources below.
@@ -37,3 +37,6 @@ The following questions are an opportunity to reflect on key topics in this less
 This section contains helpful links to related content. It isn’t required, so consider it supplemental.
 
 Watch this [TDD introduction](https://www.youtube.com/watch?v=Jv2uxzhPFl4) for an additional explanation of Test Driven Development as well as some useful examples.
+
+[| <- Previous lesson |](./7-1-testing-basics.md)  
+[| -> Next Lesson |](./7-2-project-testing-practice.md)  

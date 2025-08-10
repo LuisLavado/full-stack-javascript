@@ -1,6 +1,6 @@
 **[Curso de JavaScript](./../README.md)** - [[Cambiar a inglés](./../7-1-testing-basics.md)]
 
-## Fundamentos de Pruebas
+# Fundamentos de Pruebas
 
 ### Introducción
 El Desarrollo Dirigido por Pruebas (TDD) es fundamental en el panorama del desarrollo moderno. Este concepto ya lo presentamos en nuestra sección Fundamentos con nuestros Ejercicios de JavaScript. La idea principal es empezar a trabajar en el código escribiendo pruebas automatizadas antes de escribir el código que se va a probar. Trabajar así ofrece muchísimas ventajas, todas ellas explicadas en los recursos a continuación.
@@ -37,3 +37,6 @@ Las siguientes preguntas ofrecen la oportunidad de reflexionar sobre los temas c
 Esta sección contiene enlaces útiles a contenido relacionado. No es obligatoria, así que considérela complementaria.
 
 Vea esta [introducción al TDD](https://www.youtube.com/watch?v=Jv2uxzhPFl4) para obtener una explicación adicional del Desarrollo Dirigido por Pruebas (TDD), así como algunos ejemplos útiles.
+
+[| <- Lección anterior |](./7-1-testing-basics-es.md)  
+[| -> Próxima lección |](./7-2-project-testing-practice-es.md)

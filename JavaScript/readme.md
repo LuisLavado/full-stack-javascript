@@ -56,7 +56,7 @@ Project: Weather App
 
 ## Testing JavaScript
 * [Testing Basics](/javascript/topics/7-1-testing-basics.md)
-* Project: Testing Practice
+* [Project: Testing Practice](/javascript/topics/7-2-project-testing-practice.md)
 * More Testing
 * Project: Battleship
 
