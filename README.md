@@ -4,7 +4,7 @@ This path takes you through our entire JavaScript curriculum. The courses should
 ## Intermediate HTML and CSS
 Let's learn a little more about what you can do with HTML and CSS.
 
-## JavaScript
+## [JavaScript](/javascript/README.md)
 Make your websites dynamic and interactive with JavaScript! You'll create features and stand-alone applications. This module includes projects where you will learn how to manipulate the DOM, use object-oriented programming principles, and fetch real-world data using APIs.
 
 ## Advanced HTML and CSS

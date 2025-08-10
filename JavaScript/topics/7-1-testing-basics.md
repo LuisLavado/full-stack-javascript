@@ -1,4 +1,5 @@
-**JavaScript Course**
+**[JavaScript Course](./../README.md)** - [[Switch to Spanish](./es/7-1-testing-basics-es.md)]
+
 ## Testing Basics
 
 ### Introduction

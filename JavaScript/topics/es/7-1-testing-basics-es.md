@@ -1,4 +1,5 @@
-**Curso de JavaScript**
+**[Curso de JavaScript](./../README.md)** - [[Cambiar a inglés](./../7-1-testing-basics.md)]
+
 ## Fundamentos de Pruebas
 
 ### Introducción
